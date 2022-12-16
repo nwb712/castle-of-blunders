@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Retro Negative Melody 01 - aCustom1.wav-9fc8cffd6e3a2f4ea62d2054e3375585.sample"
+
+[deps]
+
+source_file="res://assets/external/FreeSFX/FreeSFX/GameSFX/Music/Negative/Retro Negative Melody 01 - aCustom1.wav"
+dest_files=[ "res://.import/Retro Negative Melody 01 - aCustom1.wav-9fc8cffd6e3a2f4ea62d2054e3375585.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

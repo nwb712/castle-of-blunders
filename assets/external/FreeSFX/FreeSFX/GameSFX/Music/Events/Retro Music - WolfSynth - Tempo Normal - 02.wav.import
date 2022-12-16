@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Retro Music - WolfSynth - Tempo Normal - 02.wav-e3b0d7e8962d5859e4785bf86418b755.sample"
+
+[deps]
+
+source_file="res://assets/external/FreeSFX/FreeSFX/GameSFX/Music/Events/Retro Music - WolfSynth - Tempo Normal - 02.wav"
+dest_files=[ "res://.import/Retro Music - WolfSynth - Tempo Normal - 02.wav-e3b0d7e8962d5859e4785bf86418b755.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

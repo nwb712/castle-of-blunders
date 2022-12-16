@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Retro Success Melody 04 - electric piano 2.wav-eff558d0e2252fcc717c073d7fbcb6dc.sample"
+
+[deps]
+
+source_file="res://assets/external/FreeSFX/FreeSFX/GameSFX/Music/Success/Retro Success Melody 04 - electric piano 2.wav"
+dest_files=[ "res://.import/Retro Success Melody 04 - electric piano 2.wav-eff558d0e2252fcc717c073d7fbcb6dc.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Retro Success Melody 02 - choir soprano.wav-76faf9601435aaecc786bc2008b09798.sample"
+
+[deps]
+
+source_file="res://assets/external/FreeSFX/FreeSFX/GameSFX/Music/Success/Retro Success Melody 02 - choir soprano.wav"
+dest_files=[ "res://.import/Retro Success Melody 02 - choir soprano.wav-76faf9601435aaecc786bc2008b09798.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

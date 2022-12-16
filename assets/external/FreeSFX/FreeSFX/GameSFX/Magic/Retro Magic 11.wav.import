@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Retro Magic 11.wav-71bd3ccabe68644d8a9ff61d5e2418f5.sample"
+
+[deps]
+
+source_file="res://assets/external/FreeSFX/FreeSFX/GameSFX/Magic/Retro Magic 11.wav"
+dest_files=[ "res://.import/Retro Magic 11.wav-71bd3ccabe68644d8a9ff61d5e2418f5.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

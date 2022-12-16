@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Retro Event StereoUP 02.wav-fcb3983a6ff600fcd829bf546814b272.sample"
+
+[deps]
+
+source_file="res://assets/external/FreeSFX/FreeSFX/GameSFX/Events/Retro Event StereoUP 02.wav"
+dest_files=[ "res://.import/Retro Event StereoUP 02.wav-fcb3983a6ff600fcd829bf546814b272.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

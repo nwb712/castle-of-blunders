@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Retro HiTech 08.wav-d9952e4e7a51f07450c64906f26166d8.sample"
+
+[deps]
+
+source_file="res://assets/external/FreeSFX/FreeSFX/GameSFX/HiTech/Retro HiTech 08.wav"
+dest_files=[ "res://.import/Retro HiTech 08.wav-d9952e4e7a51f07450c64906f26166d8.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

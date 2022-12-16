@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Retro Alien Transmission 02.wav-37a8bb46abcce75c677cdca4c8de2b32.sample"
+
+[deps]
+
+source_file="res://assets/external/FreeSFX/FreeSFX/GameSFX/z_Various/Retro Alien Transmission 02.wav"
+dest_files=[ "res://.import/Retro Alien Transmission 02.wav-37a8bb46abcce75c677cdca4c8de2b32.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

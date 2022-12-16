@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Retro Instrument - drumset - C01.wav-9ff1e0fa1547e93e56a3cb523a3097b1.sample"
+
+[deps]
+
+source_file="res://assets/external/FreeSFX/FreeSFX/Instruments/Retro Instrument - drumset - C01.wav"
+dest_files=[ "res://.import/Retro Instrument - drumset - C01.wav-9ff1e0fa1547e93e56a3cb523a3097b1.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

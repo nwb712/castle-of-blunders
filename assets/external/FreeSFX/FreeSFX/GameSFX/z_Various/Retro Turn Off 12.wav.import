@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Retro Turn Off 12.wav-a0d019e883e81496ff83e6b1c60613b1.sample"
+
+[deps]
+
+source_file="res://assets/external/FreeSFX/FreeSFX/GameSFX/z_Various/Retro Turn Off 12.wav"
+dest_files=[ "res://.import/Retro Turn Off 12.wav-a0d019e883e81496ff83e6b1c60613b1.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

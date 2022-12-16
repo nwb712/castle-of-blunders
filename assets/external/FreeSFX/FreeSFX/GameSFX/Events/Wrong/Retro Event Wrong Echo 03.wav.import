@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Retro Event Wrong Echo 03.wav-3453d98459a5fc4543d1689b4b10767b.sample"
+
+[deps]
+
+source_file="res://assets/external/FreeSFX/FreeSFX/GameSFX/Events/Wrong/Retro Event Wrong Echo 03.wav"
+dest_files=[ "res://.import/Retro Event Wrong Echo 03.wav-3453d98459a5fc4543d1689b4b10767b.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

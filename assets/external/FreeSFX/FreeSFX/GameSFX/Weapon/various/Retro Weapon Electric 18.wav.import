@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Retro Weapon Electric 18.wav-928f2e143d8d354674a5266fa84f5bd0.sample"
+
+[deps]
+
+source_file="res://assets/external/FreeSFX/FreeSFX/GameSFX/Weapon/various/Retro Weapon Electric 18.wav"
+dest_files=[ "res://.import/Retro Weapon Electric 18.wav-928f2e143d8d354674a5266fa84f5bd0.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

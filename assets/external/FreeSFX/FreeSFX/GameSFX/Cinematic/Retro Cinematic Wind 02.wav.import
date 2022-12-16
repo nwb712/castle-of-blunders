@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Retro Cinematic Wind 02.wav-0d0705588420a32e7b1b15af3f3549f3.sample"
+
+[deps]
+
+source_file="res://assets/external/FreeSFX/FreeSFX/GameSFX/Cinematic/Retro Cinematic Wind 02.wav"
+dest_files=[ "res://.import/Retro Cinematic Wind 02.wav-0d0705588420a32e7b1b15af3f3549f3.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

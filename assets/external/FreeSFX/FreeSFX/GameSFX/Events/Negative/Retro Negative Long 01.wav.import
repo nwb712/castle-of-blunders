@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Retro Negative Long 01.wav-ee6fe827bbc83cd5ff831c9e79afb4be.sample"
+
+[deps]
+
+source_file="res://assets/external/FreeSFX/FreeSFX/GameSFX/Events/Negative/Retro Negative Long 01.wav"
+dest_files=[ "res://.import/Retro Negative Long 01.wav-ee6fe827bbc83cd5ff831c9e79afb4be.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

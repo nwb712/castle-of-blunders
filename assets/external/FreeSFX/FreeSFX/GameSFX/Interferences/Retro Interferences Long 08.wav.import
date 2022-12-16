@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Retro Interferences Long 08.wav-449fc2e975c93018dcce2a1ac771a652.sample"
+
+[deps]
+
+source_file="res://assets/external/FreeSFX/FreeSFX/GameSFX/Interferences/Retro Interferences Long 08.wav"
+dest_files=[ "res://.import/Retro Interferences Long 08.wav-449fc2e975c93018dcce2a1ac771a652.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Retro Electric Short 17.wav-f2362d7cb0cbb105f19f0b45165cf2f1.sample"
+
+[deps]
+
+source_file="res://assets/external/FreeSFX/FreeSFX/GameSFX/Electric/Retro Electric Short 17.wav"
+dest_files=[ "res://.import/Retro Electric Short 17.wav-f2362d7cb0cbb105f19f0b45165cf2f1.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

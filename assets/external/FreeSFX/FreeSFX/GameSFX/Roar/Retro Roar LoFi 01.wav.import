@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Retro Roar LoFi 01.wav-7711650296eedaf8596d95a70b91423c.sample"
+
+[deps]
+
+source_file="res://assets/external/FreeSFX/FreeSFX/GameSFX/Roar/Retro Roar LoFi 01.wav"
+dest_files=[ "res://.import/Retro Roar LoFi 01.wav-7711650296eedaf8596d95a70b91423c.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

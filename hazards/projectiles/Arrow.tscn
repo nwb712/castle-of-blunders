@@ -1,0 +1,29 @@
+[gd_scene load_steps=5 format=2]
+
+[ext_resource path="res://hazards/projectiles/Arrow.gd" type="Script" id=1]
+[ext_resource path="res://assets/sprites/hazards/projectiles/arrow.png" type="Texture" id=2]
+[ext_resource path="res://assets/external/FreeSFX/FreeSFX/GameSFX/Weapon/Retro Gun SingleShot 04.wav" type="AudioStream" id=3]
+
+[sub_resource type="RectangleShape2D" id=71]
+extents = Vector2( 3, 0.5 )
+
+[node name="Arrow" type="Area2D"]
+collision_layer = 2
+collision_mask = 3
+angular_damp = 100.0
+script = ExtResource( 1 )
+
+[node name="Sprite" type="Sprite" parent="."]
+texture = ExtResource( 2 )
+centered = false
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+position = Vector2( 3, 1.5 )
+shape = SubResource( 71 )
+
+[node name="FireArrow" type="AudioStreamPlayer" parent="."]
+stream = ExtResource( 3 )
+volume_db = -15.0
+pitch_scale = 2.0
+
+[connection signal="body_entered" from="." to="." method="_on_Arrow_body_entered"]

@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Retro Owl 01.wav-679a7830bd89bdd9a47ccfe8ec79e2f0.sample"
+
+[deps]
+
+source_file="res://assets/external/FreeSFX/FreeSFX/GameSFX/Animal Insects/Retro Owl 01.wav"
+dest_files=[ "res://.import/Retro Owl 01.wav-679a7830bd89bdd9a47ccfe8ec79e2f0.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Game Over.wav-47b5de77e5ad158a4e2deea68ad1e4e3.sample"
+
+[deps]
+
+source_file="res://assets/external/FreeSFX/FreeSFX/Voices/Game Over.wav"
+dest_files=[ "res://.import/Game Over.wav-47b5de77e5ad158a4e2deea68ad1e4e3.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
